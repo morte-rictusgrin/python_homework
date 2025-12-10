@@ -1,0 +1,12 @@
+function: hello
+positional parametes: None
+keyword parameters: None
+return: hello executed
+function: positional
+positional parametes: ['Bally Jerry', 'pranged', 'his kite', 'caught his can in the Bertie']
+keyword parameters: None
+return: True
+function: keywords
+positional parametes: None
+keyword parameters: {'name': 'Bob', 'action': 'listens'}
+return: logger_decorator
